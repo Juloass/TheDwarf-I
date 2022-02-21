@@ -1,0 +1,70 @@
+{
+  "PAT": [
+    {
+      "id": "minecraft:iron_ore",
+      "count": 54
+    },
+    {
+      "id": "minecraft:gold_ingot",
+      "count": 891
+    },
+    {
+      "id": "minecraft:lapis_lazuli",
+      "count": 58
+    },
+    {
+      "id": "minecraft:redstone_dust",
+      "count": 18
+    },
+    {
+      "id": "minecraft:diamond",
+      "count": 16
+    },
+    {
+      "id": "minecraft:iron_pickaxe",
+      "count": 4
+    },
+    {
+      "id": "minecraft:diamond_sword",
+      "count": 2
+    },
+    {
+      "id": "minecraft:diamond_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "minecraft:iron_chestplate",
+      "count": 6
+    },
+    {
+      "id": "minecraft:diamond_chestplate",
+      "count": 4
+    }
+  ],
+  "VLC": [
+    {
+      "id": "minecraft:coal",
+      "count": 209
+    },
+    {
+      "id": "minecraft:iron_ore",
+      "count": 113
+    },
+    {
+      "id": "minecraft:gold_ingot",
+      "count": 77
+    },
+    {
+      "id": "minecraft:lapis_lazuli",
+      "count": 77
+    },
+    {
+      "id": "minecraft:diamond",
+      "count": 5
+    },
+    {
+      "id": "minecraft:emerald",
+      "count": 1
+    }
+  ]
+}
